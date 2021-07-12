@@ -12,8 +12,6 @@ function App() {
         <h2 class="center">SOMOS LANDING MAKER</h2>
       <Header></Header>
       <Hero/>
-      
-    
       </div>
      
     </div>
