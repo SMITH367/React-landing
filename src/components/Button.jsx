@@ -19,6 +19,6 @@ class Button extends Component {
 }
 
 export {
-    Button,
+    Button
    
 }
