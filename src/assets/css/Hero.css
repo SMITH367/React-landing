@@ -1,6 +1,6 @@
 .hero{
     width:100%;
-    background:  rgb(120, 217, 255);
+    background: #C7E6EA;
     display:grid;
     grid-template-columns: 50% 50%;
     text-align: center;

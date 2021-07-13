@@ -1,0 +1,39 @@
+
+.about-us{
+    padding:3em;
+    margin-top: 1em;
+    background-color: #F34F36;
+    color:#fff;
+
+}
+.about-us p{
+    margin:10px;
+}
+
+
+
+.landing-beneficies-container {
+    display:flex;
+    flex-wrap:wrap;
+    text-align: center;
+    align-content: center;
+}
+
+.benefit {
+    width: 30%;
+    margin:20px;
+}
+.benefit img {
+ 
+    height:10em;
+}
+
+@media (max-width:700px) {
+    .benefit{
+        width:100%;
+    }
+    .about-us{
+        padding:1em;
+    }
+}
+

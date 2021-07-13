@@ -10,10 +10,10 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h2 class="center">SOMOS LANDING MAKER</h2>
+        <h2 class="center">SOMOS MAKE LANDING PAGES</h2>
         <Header></Header>
         <Hero/>
-        <SectionMain/>
+        <SectionMain className=""/>
       
     
 
