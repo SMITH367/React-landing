@@ -2,6 +2,7 @@ import React , {Component}from 'react';
 import {FormContat} from './Form-contact'
 import '../assets/css/Hero.css'
 import heroimg from '../assets/img/create-landings-now.png'
+
 class Hero extends Component {
 
     constructor(props){
@@ -20,6 +21,7 @@ class Hero extends Component {
                </div>
                <div className="hero-contact">
                    <FormContat></FormContat>
+                
                    
                </div>
             </div>

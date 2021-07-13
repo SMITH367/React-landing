@@ -1,4 +1,5 @@
 import React , {Component}from 'react';
+import '../assets/css/Button.css'
 
 
 class Button extends Component {
@@ -9,11 +10,15 @@ class Button extends Component {
 
     render(){
         return (
-            <a href="" className="button">{this.props.contentButton}</a>
+            <div className="button-container">
+                 <a href="" className="button ">{this.props.contentButton}</a>
+            </div>
+           
         );
     }
 }
 
 export {
-    Button
+    Button,
+   
 }

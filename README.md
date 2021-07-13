@@ -1,7 +1,4 @@
-
 # This is a simple landing page with react JS
-
-
 
 
 ### Getting Started with Create React App

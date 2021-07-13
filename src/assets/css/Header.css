@@ -2,7 +2,7 @@
 
     display:flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     width: 100%;
     padding: 20px;
@@ -15,12 +15,15 @@
 
 @media (max-width:700px) {
     .logo{
-        width:40%;
+        width:70%;
     }
     .logo-img{
         width:100%;
     }
     .button-header{
-        width: 40%;
+        width: 100%;
+    }
+    .header{
+        flex-wrap: nowrap;
     }
 }

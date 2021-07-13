@@ -1,0 +1,34 @@
+.form-container{
+    width:100%;
+    margin:20px 0;
+    text-align: center;
+}
+
+.form{
+    background: #fff;
+    width: 50%;
+    text-align: center;
+    margin:auto;
+}
+
+.form-element{
+    display:block;
+    margin: 1em auto;
+    border:none;
+    padding:10px;
+    border-bottom: .5px solid;
+ 
+}
+
+.label{
+    display:block;
+    padding:10px;
+}
+
+.information-send{
+    margin: 1em auto;
+    padding:10px;
+}
+.button-submit{
+    margin:10px;
+}

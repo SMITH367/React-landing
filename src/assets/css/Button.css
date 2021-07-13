@@ -1,0 +1,14 @@
+.button-container{
+    padding:1em;
+   
+}
+.button{
+   
+    text-decoration: none;
+    border:solid rgb(18, 33, 80) ;
+    border-radius: 15px;
+    background: rgb(18, 33, 80);
+    color:aliceblue;
+    padding:10px;
+
+}
