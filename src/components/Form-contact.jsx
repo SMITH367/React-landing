@@ -17,6 +17,7 @@ class FormContat extends Component {
             name=""
             id=""
             placeholder="Nombre"
+            minLength="3"
           />
           <input
             className="form-element"
@@ -32,8 +33,9 @@ class FormContat extends Component {
             cols="30"
             rows="10"
             placeholder="Mensaje"
+            minLength="7"
           ></textarea>
-            <input type="submit" value="HOLAAA" className="button button-submit"  />
+            <input type="submit" value="Enviar" className="button button-submit"  />
         </form>
       </div>
     );

@@ -1,0 +1,18 @@
+.aside {
+    display:grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    background-color: #C7E6EA;
+}
+textarea {
+    width:90%;
+}
+input{
+    width:80%;
+}
+@media (max-width:700px) {
+    .aside{
+        grid-template-columns:100%;
+    }
+    
+}

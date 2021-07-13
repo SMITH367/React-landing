@@ -20,7 +20,7 @@ class SectionMain extends Component {
           <div className="about-us center">
             <h2>Make landing pages</h2>
             <p>
-              Langin pages efectivas para hacer crecer tu negocio, <span style={styles}> crea la tuya  </span>  y disfruta de todos estos beneficios
+              Langin pages efectivas para hacer crecer tu negocio, <span style={styles}> Creamos la tuya  </span>  y disfruta de todos estos beneficios
             </p>
           </div>
 
